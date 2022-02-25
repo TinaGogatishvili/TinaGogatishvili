@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TinaGogatishvili
+- 👀 I’m interested in front-end;
+- 🌱 I’m currently learning Javascript;
+- 📫 How to reach me _ tinagogatishvili@gmail.com   /   +995 555 44 07 91 WhatsApp / Viber / Telegram;
